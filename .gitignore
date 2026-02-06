@@ -1,0 +1,20 @@
+# File biên dịch
+*.o
+*.out
+*.exe
+
+# File chạy
+a.out
+main
+
+# Compiler sinh ra
+*.i
+*.s
+
+# File tạm
+*~
+*.swp
+*.log
+
+# Folder build
+build/
